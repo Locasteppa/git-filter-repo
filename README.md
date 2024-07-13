@@ -113,7 +113,11 @@ but some highlights for the main competitors:
     using
     filter-branch](https://git-scm.com/docs/git-filter-branch#_warning)
 
-  * die-hard fans of filter-branch may be interested in
+ 
+	 
+	
+ 
+ * die-hard fans of filter-branch may be interested in
     [filter-lamely](contrib/filter-repo-demos/filter-lamely)
     (a.k.a. [filter-branch-ish](contrib/filter-repo-demos/filter-branch-ish)),
     a reimplementation of filter-branch based on filter-repo which is
